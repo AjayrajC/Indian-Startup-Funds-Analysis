@@ -3,9 +3,9 @@
 This repository contains:
 - Tableau visualizations on Indian Startup Funding.
 
-## 🔍 Contents
+##  Contents
 
-### 1. Dataset: Mental Health in Tech
+### 1. Dataset: Indian Startup Funding
 - File: `startup_funding_c.csv`
 - Preprocessed and cleaned for Tableau
 
